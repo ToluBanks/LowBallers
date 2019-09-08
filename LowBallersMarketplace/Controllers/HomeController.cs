@@ -17,7 +17,7 @@ namespace LowBallersMarketplace.Controllers
 
         public IActionResult About()
         {
-            ViewBag.Message= "LowBallers is a really good store.";
+            ViewBag.Message= "LowBallersMarketplace is a really good store to shop at.";
             return View();
         }
         public IActionResult Privacy()
